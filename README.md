@@ -1,4 +1,4 @@
-El programa muestra unas tarhetas de testimonios, adaptadas a tarjetas de personajes gatunos.
+El programa muestra unas tarjetas de testimonios, adaptadas a tarjetas de personajes gatunos.
 La adaptación se hizo para que la página sea más dinámica, implementando botones que cambian entre tarjetas
 
 Ejecutar la Aplicación

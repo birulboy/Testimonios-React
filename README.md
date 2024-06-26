@@ -8,3 +8,4 @@ La aplicación se abrirá automáticamente en el navegador configurado por defec
 
 Instalar Módulos
 Para instalar los módulos necesarios para la aplicación, debes ejecutar el comando npm install en el terminal
+Enlace a la demostración en vivo: https://relaxed-kheer-d32a3a.netlify.app/
